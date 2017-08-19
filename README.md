@@ -1,2 +1,2 @@
 # requireJS-webpack-sample
-requireJS&amp;webpack的使用
+requireJS&amp;webpack的使用和对比
